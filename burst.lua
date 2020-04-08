@@ -64,7 +64,7 @@ function RefreshAccount (account, since)
       currency = nil,
       market = "cryptocompare",
       quantity = BurstcoinQuantity,
-      price = prices["price_eur"],
+      price = prices,
     }
   end
 
