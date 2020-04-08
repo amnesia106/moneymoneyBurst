@@ -16,3 +16,4 @@ Once downloaded, move `burstcoin.lua` to your MoneyMoney Extensions folder.
 
 Add a new account (type "Burstcoin Account") and provide your BURST numeral addresses as username (comma seperated)
 
+This is a fork from curbshifters first release on sourceforge 
